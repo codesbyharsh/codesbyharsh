@@ -27,6 +27,10 @@ Tech: MongoDB, Express, React, Node.js
 Python backend that assigns trips dynamically based on location/schedule  
 Tech: Flask, REST API, GTFS
 
+### 🔹 Online Library
+MERN stack web application with an scalable storage for storing book's PDF on AWS S3 bucket . 
+Tech: React, Node.js, Express, MongoDB, AWS . 
+
 ---
 
 ## 🛠️ Tech Stack
@@ -42,10 +46,9 @@ Tech: Flask, REST API, GTFS
 
 ## 📫 Contact Me
 
-- 📧 Email: `jadhav.harsh.official@gmail.com`
-- 🌍 Portfolio: coming soon...
+- 📧 Email: `jadhavh655@gmail.com`
 - 💬 Open to freelance, collaborations, and innovative projects!
 
 ---
 
-Thanks for visiting! If you like what I do, feel free to ⭐ some repos 🙌
+Thanks for visiting! If you like what I do, feel free to ⭐ some repos 🙌 
