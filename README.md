@@ -6,10 +6,8 @@ I’m a Full Stack Developer passionate about building real-time applications an
 
 ## 🚀 About Me
 
-- 👨‍💻 Currently working on **GPS-based tracking systems** and **Transit Tech**
-- 🧠 Learning more about **backend scalability**, **WebSockets**, and **deployment strategies**
-- 💡 Interested in smart city solutions and live mapping applications
-- 🎯 Goal: Make public transport smarter and more efficient through tech
+- 👨‍💻 Currently working on **Digital Ecommarce Website For Cloths**
+- 💡 Interested in live applications
 
 ---
 
@@ -19,13 +17,13 @@ I’m a Full Stack Developer passionate about building real-time applications an
 Real-time bus tracking app for rural areas  
 Tech: React, Vite, Leaflet, GTFS, Node.js
 
-### 🔹 GPS Tracking System (MERN)
-Backend and frontend for capturing real-time GPS data from devices  
-Tech: MongoDB, Express, React, Node.js
-
 ### 🔹 Dynamic Trip Assigner
 Python backend that assigns trips dynamically based on location/schedule  
 Tech: Flask, REST API, GTFS
+
+### 🔹 GPS Tracking System (MERN)
+Backend and frontend for capturing real-time GPS data from devices  
+Tech: MongoDB, Express, React, Node.js
 
 ### 🔹 Online Library
 MERN stack web application with an scalable storage for storing book's PDF on AWS S3 bucket . 
