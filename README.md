@@ -46,11 +46,11 @@
 > Real-time Bus Tracking System for schools and institutions.  
 > **Tech:** MERN, Python, Leaflet, WebSocket, Vercel, Render  
 
-### 🛒 [ShopNexus](https://github.com/codesbyharsh/shopnexus)  
+### 🛒 [ShopNexus](https://fabrico-client.vercel.app/)  
 > Full-Stack E-Commerce Platform with admin dashboard, live delivery tracking, and payment gateway.  
 > **Tech:** MERN, Razorpay, Cloudinary, OTP Auth, Leaflet  
 
-### 📚 [Online Library](https://github.com/codesbyharsh/online-library)  
+### 📚 [Online Library](https://github.com/codesbyharsh/elibrary)  
 > Digital Library Web App for browsing, reading & managing eBooks.  
 > **Tech:** React, Node.js, MongoDB, AWS S3  
 
